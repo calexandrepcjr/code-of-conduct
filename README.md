@@ -1,6 +1,6 @@
 # Código de Conduta PHPRio
 
-Este repositório contém o [Code of Conduct](code-of-conduct-BR.md), utilizado no website do PHPRio e nos seus eventos, meetups e grupos de usuário.
+Este repositório contém o [Código de Conduta](code-of-conduct-BR.md), utilizado no website do PHPRio e nos seus eventos, meetups e grupos de usuário.
 
 # Licença
 
