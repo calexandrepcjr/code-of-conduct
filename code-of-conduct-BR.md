@@ -41,7 +41,7 @@ tais valores para contratar a oferta mais baixa do mercado. Quebre este ciclo
 ### Devolva a ajuda que te deram
 - Quando alguém te ajudar, dê feedback, assim todos podem aprender com sua experiência
 
-## Comportamento Inaceitável
+## Comportamento Inadequado
 
 Pode incluir, mas não se limita, a:
 
