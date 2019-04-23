@@ -52,7 +52,7 @@ Pode incluir, mas não se limita, a:
 - SPAM - ato de enviar postagens orientadas a marketing/divulgação sem contexto ou mesmo aprovação dos administradores
 é considerado spamming
 - Flood - ato de inundar a interação com mensagens próprias é considerado flooding
-- Compartilhar ofertas de emprego sem budget/range salarial
+- Compartilhar ofertas de emprego sem faixa salarial
 
 ## Reportando e ajudando no cumprimento
 
