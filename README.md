@@ -21,8 +21,8 @@ as mudanças necessárias. Obrigado!
 # Traduções disponíveis
 
 O Código de Conduta está atualmente disponível em:
-- [English](code-of-conduct-EN.md)
-- [Portuguese (Brazilian)](code-of-conduct-BR.md)
+- [Inglês](code-of-conduct-EN.md)
+- [Português (Brasileiro)](code-of-conduct-BR.md)
 
 ____________________
 
