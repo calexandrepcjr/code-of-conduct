@@ -43,23 +43,22 @@ tais valores para contratar a oferta mais baixa do mercado. Quebre este ciclo
 
 ## Comportamento Inaceitável
 
-Harassment may include but not limited to the following:
+Perseguição/assédio pode incluir, mas não se limita, a:
 
-- Offensive, inappropriate, or unwanted comments - when someone asks to stop, stop.
-- Disrespect towards differences of opinion
-- Sustained disruption of talks or other events
-- Intimidation or bullying (online or in-person)
-- SPAM - the act of sending marketing oriented posts without context or even approval from the admins is considered spamming
-- Flood - the act of inundate a source of interaction with messages of your own is considered flooding
-- Sharing work offers without budget
+- Comentários ofensivos, inapropriados ou indesejáveis - quando alguém pedir que pare, pare
+- Desrespeito a diferenças de opinião
+- Disrupção prolongada de conversas ou outros eventos
+- Intimidação ou bullying (online ou pessoalmente)
+- SPAM - ato de enviar postagens orientadas a marketing/divulgação sem contexto ou mesmo aprovação dos administradores
+é considerado spamming
+- Flood - ato de inundar a interação com mensagens próprias é considerado flooding
+- Compartilhar ofertas de emprego sem budget/range salarial
 
-## Reporting and Enforcement
+## Reportando e ajudando no cumprimento
 
-- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by email contato@phprio.org
-- If necessary, PHPRio staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the community, and referrals to local law enforcement.
+- Se você foi vítima ou testemunha de quaisquer violações deste Código de Conduta, entre em contato conosco pelo email contato@phprio.org
+- Se necessário, a staff do PHPRio tem o poder de tomar as ações cabíveis que podem incluir, mas não são limitadas a, advertências, expulsão da comunidade ou até encaminhar o caso às autoridades cabíveis
 
-Portions derived from the [Docker Code of Conduct](https://github.com/docker/code-of-conduct) and [The Apache Foundation](https://www.apache.org/foundation/policies/conduct)
+Trechos derivam do [Código de Conduta do Docker](https://github.com/docker/code-of-conduct) e [Fundação Apache](https://www.apache.org/foundation/policies/conduct)
 
-This work is licensed under a Creative Commons Attribution 3.0 Unported License For attribution requirements:
-
-PHPRio, used under a Creative Commons Attribution Unported license: [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
+PHPRio, sob a licença Creative Commons Attribution Unported: [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
