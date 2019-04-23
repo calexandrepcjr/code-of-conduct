@@ -1,3 +1,31 @@
+# Código de Conduta PHPRio
+
+Este repositório contém o [Code of Conduct](code-of-conduct-BR.md), utilizado no website do PHPRio e nos seus eventos, meetups e grupos de usuário.
+
+# Licença
+
+Este trabalho está licenciado sob a licença Creative Commons Attribution 3.0 Unported
+
+Para requisições de atribuição:
+
+"Código de conduta @PHPRio" © sob a licença Creative Commons Attribution Unported: http://creativecommons.org/licenses/by/3.0/"
+
+# Como contribuir
+
+O Código de Conduta é um arquivo separado que pode ser utilizado nas publicações para eventos
+e meetups sem necessitar adicionar este texto explicativo.
+
+Para contribuir, fork este repositório e submeta um PR. Iremos revisar, debater e mergear
+as mudanças necessárias. Obrigado!
+
+# Traduções disponíveis
+
+O Código de Conduta está atualmente disponível em:
+- [English](code-of-conduct-EN.md)
+- [Portuguese (Brazilian)](code-of-conduct-BR.md)
+
+____________________
+
 # PHPRio Code of Conduct
 
 This repository contains the PHPRio [Code of Conduct](code-of-conduct-EN.md), used at PHPRio website and other events, meetups, and user groups.
@@ -23,4 +51,4 @@ changes as needed. Thank you!
 
 The Code of Conduct is currently available in:
 - [English](code-of-conduct-EN.md)
-- [Portuguese (Brazilian)](code-of-conduct-PT.md)
+- [Portuguese (Brazilian)](code-of-conduct-BR.md)
