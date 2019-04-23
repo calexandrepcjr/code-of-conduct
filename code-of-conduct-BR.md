@@ -43,7 +43,7 @@ tais valores para contratar a oferta mais baixa do mercado. Quebre este ciclo
 
 ## Comportamento Inaceitável
 
-Perseguição/assédio pode incluir, mas não se limita, a:
+Pode incluir, mas não se limita, a:
 
 - Comentários ofensivos, inapropriados ou indesejáveis - quando alguém pedir que pare, pare
 - Desrespeito a diferenças de opinião
