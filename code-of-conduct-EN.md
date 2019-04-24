@@ -62,4 +62,4 @@ Portions derived from the [Docker Code of Conduct](https://github.com/docker/cod
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License For attribution requirements:
 
-PHPRio, used under a Creative Commons Attribution Unported license: [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
+{institution}, used under a Creative Commons Attribution Unported license: [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
