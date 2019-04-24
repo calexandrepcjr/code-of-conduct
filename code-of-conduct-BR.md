@@ -1,8 +1,8 @@
 ## Introdução
 
-Este código de conduta se aplica a todos os espaços administrados pelo PHPRio, incluindo serviços online como Telegram, IRC, todas as listas públicas e privadas de email, ferramentas de problemas, wikis, blogs, Twitter, e qualquer outro canal de comunicação usado pelas nossas comunidades.
+Este código de conduta se aplica a todos os espaços administrados pela {instituição}, incluindo serviços online como Telegram, IRC, todas as listas públicas e privadas de email, ferramentas de problemas, wikis, blogs, Twitter, e qualquer outro canal de comunicação usado pelas nossas comunidades.
 
-Nós esperamos que este código de conduta seja honrado por todos que participam da comunidade PHPRio formalmente ou informalmente, ou clama qualquer afiliação com a comunidade, em quaisquer atividades relacionadas a mesma.
+Nós esperamos que este código de conduta seja honrado por todos que participam da comunidade {instituição} formalmente ou informalmente, ou clama qualquer afiliação com a comunidade, em quaisquer atividades relacionadas a mesma.
 
 Este código não está completo, sinta-se encorajado a participar. Apenas lembre-se de mantê-lo bem conciso e amplo, nosso objetivo é criar uma comunidade prolífica onde todos podem sentir-se bem, crescerem como pessoas e ajudar outras.
 
@@ -56,9 +56,9 @@ Pode incluir, mas não se limita, a:
 
 ## Reportando e ajudando no cumprimento
 
-- Se você foi vítima ou testemunha de quaisquer violações deste Código de Conduta, entre em contato conosco pelo email contato@phprio.org
-- Se necessário, a staff do PHPRio tem o poder de tomar as ações cabíveis que podem incluir, mas não são limitadas a, advertências, expulsão da comunidade ou até encaminhar o caso às autoridades cabíveis
+- Se você foi vítima ou testemunha de quaisquer violações deste Código de Conduta, entre em contato conosco pelo email {email}
+- Se necessário, a staff do {instituição} tem o poder de tomar as ações cabíveis que podem incluir, mas não são limitadas a, advertências, expulsão da comunidade ou até encaminhar o caso às autoridades cabíveis
 
 Trechos derivam do [Código de Conduta do Docker](https://github.com/docker/code-of-conduct) e [Fundação Apache](https://www.apache.org/foundation/policies/conduct)
 
-PHPRio, sob a licença Creative Commons Attribution Unported: [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
+{instituição}, sob a licença Creative Commons Attribution Unported: [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
